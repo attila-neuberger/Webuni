@@ -9,9 +9,11 @@
 $a = 105;
 $b = 17;
 $c = 12;
-$d = 34;
+$d = 36;
 
 print $a + $b + $c + $d;
+
+// A GitHub-on szerkesztettem.
 
 // Kivonás
 //--------
