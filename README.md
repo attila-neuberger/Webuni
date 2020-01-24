@@ -1,4 +1,4 @@
-# Webuni
-Practice repository (Webuni)
+# Webuni project
+## Practice repository
 
 Project for Git practice.
